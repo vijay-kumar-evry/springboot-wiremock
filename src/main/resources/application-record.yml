@@ -1,0 +1,9 @@
+spring:
+  config:
+    activate:
+      on-profile: record
+
+mock:
+  mode: 'RECORD'
+  port: 8085
+  url: http://localhost:8085

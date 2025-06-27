@@ -1,0 +1,26 @@
+{
+  "id" : "fee8fbce-ec3a-430f-bb33-73d93e6dda38",
+  "name" : "objects_4",
+  "request" : {
+    "url" : "/objects/4",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"id\":\"4\",\"name\":\"Apple iPhone 11, 64GB\",\"data\":{\"price\":389.99,\"color\":\"Purple\"}}",
+    "headers" : {
+      "CF-RAY" : "955c1a8ebcf96437-LHR",
+      "Nel" : "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "Server" : "cloudflare",
+      "Report-To" : "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=1ljdkUDRBIwNiqIfBWGMC2YVTKIYLdv3t7kv7kzg0Py0bcC30F6KXNHNeuJ7ZhPC7UVbUJ3lutcWtGFUOekfkyc2jmULHkt%2BnPYpPEtbfGdPavY%3D\"}]}",
+      "Cf-Cache-Status" : "DYNAMIC",
+      "Vary" : [ "Origin", "Access-Control-Request-Method", "Access-Control-Request-Headers" ],
+      "alt-svc" : "h3=\":443\"; ma=86400",
+      "Date" : "Thu, 26 Jun 2025 10:43:27 GMT",
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "fee8fbce-ec3a-430f-bb33-73d93e6dda38",
+  "persistent" : true,
+  "insertionIndex" : 5
+}

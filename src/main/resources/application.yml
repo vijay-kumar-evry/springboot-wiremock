@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: mockdemo
+
+mock:
+  mode: "NO"
+
+external:
+  service:
+    url: https://api.restful-api.dev
+
+logging:
+  level:
+    'com.github.tomakehurst.wiremock': DEBUG
+    'javax.management': INFO
+    'org.eclipse.jetty': INFO
+    'sun.rmi': INFO
+    'root': INFO
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} %-5level [%thread] %logger{36} [%class] - %msg%n"

@@ -1,0 +1,26 @@
+{
+  "id" : "b896cd13-ad6e-459f-bf85-5c630d7c7efe",
+  "name" : "objects_5",
+  "request" : {
+    "url" : "/objects/5",
+    "method" : "GET"
+  },
+  "response" : {
+    "status" : 200,
+    "body" : "{\"id\":\"5\",\"name\":\"Samsung Galaxy Z Fold2\",\"data\":{\"price\":689.99,\"color\":\"Brown\"}}",
+    "headers" : {
+      "CF-RAY" : "955c1aa71c42ef52-LHR",
+      "Nel" : "{\"report_to\":\"cf-nel\",\"success_fraction\":0.0,\"max_age\":604800}",
+      "Server" : "cloudflare",
+      "Report-To" : "{\"group\":\"cf-nel\",\"max_age\":604800,\"endpoints\":[{\"url\":\"https://a.nel.cloudflare.com/report/v4?s=abF1HUvDSwJKlowg42NpOiqQ4lQQYGfbjc1SS4qXDSz4reV7Bay1TWxcplHMriCiA0J1lkUcM5ZysUCzP%2BltiUWfV%2F6q7crPDF%2BYxJWMsM4I\"}]}",
+      "Cf-Cache-Status" : "DYNAMIC",
+      "Vary" : [ "Origin", "Access-Control-Request-Method", "Access-Control-Request-Headers" ],
+      "alt-svc" : "h3=\":443\"; ma=86400",
+      "Date" : "Thu, 26 Jun 2025 10:43:31 GMT",
+      "Content-Type" : "application/json"
+    }
+  },
+  "uuid" : "b896cd13-ad6e-459f-bf85-5c630d7c7efe",
+  "persistent" : true,
+  "insertionIndex" : 4
+}

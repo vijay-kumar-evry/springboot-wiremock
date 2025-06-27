@@ -1,0 +1,14 @@
+{
+  "priority": 10,
+  "request": {
+    "method": "GET",
+    "urlPattern": "/users/.*"
+  },
+  "response": {
+    "status": 200,
+    "body": "{ \"message\": \"This is a fallback mock response\" }",
+    "headers": {
+      "Content-Type": "application/json"
+    }
+  }
+}
